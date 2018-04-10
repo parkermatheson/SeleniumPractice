@@ -54,10 +54,16 @@ describe 'Portfolio Application' do
   end
   describe 'logs in a user' do
     it 'clicks on the login button' do
-      
     end
     it 'enters a correct username' do
-      
+    end
+    it 'enters a correct password' do
+    end
+    it 'clicks on the submit button' do
+    end
+  end
+  describe 'logs a user out' do
+    it 'clicks the logout button' do
     end
   end
 end
