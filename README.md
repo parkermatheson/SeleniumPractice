@@ -27,4 +27,4 @@ Set up a selenium hub in the terminal.
 Set up a selenium node in the terminal.
 `java -jar selenium-server-standalone-3.11.0.jar -role node -hub`
 
-To write tests for Selenium to run, I wrote tests using RSpec. If you aren't familiar with writing tests in RSpec, I would recommend learning more [here](http://rspec.info/documentation/3.7/rspec-expectations/.
+To write tests for Selenium to run, I wrote tests using RSpec. If you aren't familiar with writing tests in RSpec, I would recommend learning more [here](http://rspec.info/documentation/3.7/rspec-expectations/).
